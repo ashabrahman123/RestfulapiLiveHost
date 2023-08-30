@@ -1,0 +1,38 @@
+[
+    {
+        "name":"iphone x",
+        "price":6000000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone xmax",
+        "price":600,
+        "featured":true,
+        "company":"appleHalf"
+    },
+    {
+        "name":"samsumg a32",
+        "price":70000,
+        "featured":true,
+        "company":"samsumg"
+    },
+    {
+        "name":"laptop",
+        "price":60,
+        "featured":true,
+        "company":"dell"
+    },
+    {
+        "name":"bag",
+        "price": 9000,
+        "featured":true,
+        "company":"lui viton"
+    },
+    {
+        "name":"mobile",
+        "price": 8000,
+        "featured":true,
+        "company":"infiix"
+    }
+]
